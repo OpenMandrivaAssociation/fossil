@@ -1,6 +1,6 @@
 Name: fossil
 Version: 1.32
-Release: 2
+Release: 3
 Source0: https://www.fossil-scm.org/download/%{name}-src-%{version}.tar.gz
 Summary: The Fossil SCM system
 URL: http://www.fossil-scm.org/
