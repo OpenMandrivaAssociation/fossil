@@ -1,9 +1,9 @@
-%define _disable_lto 1
+#define _disable_lto 1
 
 Name: fossil
-Version: 1.32
-Release: 4
-Source0: https://www.fossil-scm.org/download/%{name}-src-%{version}.tar.gz
+Version: 2.10
+Release: 1
+Source0: https://www.fossil-scm.org/home/uv/%{name}-src-%{version}.tar.gz
 Summary: The Fossil SCM system
 URL: http://www.fossil-scm.org/
 License: BSD
