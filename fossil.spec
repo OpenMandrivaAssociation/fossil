@@ -1,8 +1,8 @@
 #define _disable_lto 1
 
 Name: fossil
-Version: 2.10
-Release: 1
+Version:	2.11
+Release:	1
 Source0: https://www.fossil-scm.org/home/uv/%{name}-src-%{version}.tar.gz
 Summary: The Fossil SCM system
 URL: http://www.fossil-scm.org/
