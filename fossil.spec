@@ -5,7 +5,7 @@ Version:	2.11.1
 Release:	2
 Source0: https://www.fossil-scm.org/home/uv/%{name}-src-%{version}.tar.gz
 Summary: The Fossil SCM system
-URL: http://www.fossil-scm.org/
+URL: https://www.fossil-scm.org/
 License: BSD
 Group: Development/Tools
 BuildRequires: pkgconfig(fuse)
